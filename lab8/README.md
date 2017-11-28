@@ -1,4 +1,4 @@
-Rozwiązanie laboratiorium z Dr. Gachem z 27.11.2017
+Rozwiązanie laboratiorium z Dr. Gachem z ARRAY 27.11.2017
 
 Main.cpp - plik z treścią
 Functions.h - predefinicje funkcji
