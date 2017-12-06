@@ -1,0 +1,33 @@
+#include "FractionArray.h"
+#include <iostream>
+
+FractionArray:: FractionArray(const int arraySize): _size(arraySize)
+{
+  _array = 0;
+  _howMany = 0;
+}
+
+void FractionArray::Print()
+{
+  //for(int i = 0; i < _size; i++)
+  //{
+  //  std::cout<<i<<": ";
+  //  _array[i].Print();
+  // }
+}
+
+
+void FractionArray::AddFration(Fraction fraction)
+{
+  //if(_array == 0)
+  //{
+  //  _array = new Fraction[_size];
+  //}
+  //_array[_howMany] = fraction;
+  //_howMany += 1;
+
+}
+FractionArray FractionArray::Sum()
+{
+  //fraction = new Fraction()
+}
