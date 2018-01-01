@@ -14,7 +14,7 @@ public:
   //funkcja statyczna tworząca obiekt inicjalizowany stopniami
   static Angle fromDegrees(double angleValue);
 
-  //funkcja zwracająca dystans między dwoma kontami
+  //funkcja zwracająca dystans między dwoma katami
   static Angle  distance(const Angle& firstAngle, const Angle& secondAngle);
 
   //funkcja pozwalająca dodać do obiektu drugi kąt seconAngle
